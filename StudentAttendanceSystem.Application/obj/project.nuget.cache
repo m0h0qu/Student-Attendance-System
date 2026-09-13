@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTJjCkNTHeHepBmyw7Fi0dYdcTYvovaP7tyFJMQ2q5I5VWKz95r54yHGFeK8sAXMSbuZX4Mdn5568kWzvI4oQQ==",
+  "success": true,
+  "projectFilePath": "C:\\StudentAttendanceSystem_Submission\\StudentAttendanceSystem_Submission\\my first p\\StudentAttendanceSystem.Application\\StudentAttendanceSystem.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\new\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\new\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\new\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
